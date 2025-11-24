@@ -24,24 +24,24 @@ This repository contains the **frontend application** that interacts with the La
 
 ## 🖼️ Sample Screenshots
 
-### 🔐 Login & Master Key Entry
+### 🔐 What We Offer
 
 ![Screenshot](<./screenshots/Screenshot%20(1).png>)
-_Users authenticate using derived cryptographic keys — no raw passwords sent._
+_We use currenly the latest encryption Algorithm_
 
 ---
 
-### 🔑 Master Key Overview
+### 🔑 Sankrypt is Local Decrypt
 
 ![Screenshot](<./screenshots/Screenshot%20(2).png>)
-_Your master key encrypts and decrypts all private vault data locally._
+_Your Cred is more Secure if we make it local_
 
 ---
 
-### 🏺 Vault Categories
+### 🏺 Master Key Overview
 
 ![Screenshot](<./screenshots/Screenshot%20(3).png>)
-_Easily manage groups of secrets: banking, work, personal, developer keys, and more._
+_Your master key encrypts and decrypts all private vault data locally._
 
 ---
 
